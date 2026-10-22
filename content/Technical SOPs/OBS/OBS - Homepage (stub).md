@@ -1,0 +1,1 @@
+**OBS is the program we use for Live Streaming to Youtube and Facebook. It's open source, and is used throughout the Live Stream industry.** 
