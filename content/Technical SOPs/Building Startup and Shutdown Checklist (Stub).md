@@ -21,7 +21,7 @@
 		- [ ] 2 Cross Projectors
 			- [ ] Once these are on, use the input button to switch to HDM-1
 - Sanctuary Shutdown
-	- [ ] There are three remotes in the sound booth, turn on the following devices
+	- [ ] There are three remotes in the sound booth, turn off the following devices
 		- [ ] Confidence Monitor TV
 		- [ ] Main Projector
 		- [ ] 2 Cross Projectors
