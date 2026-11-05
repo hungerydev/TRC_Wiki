@@ -14,7 +14,7 @@
 	- [ ] Turn up the knobs on the amps
 		- [ ] The blue amp (in house), both knobs at max
 		- [ ] The orange amp (lobby/outside) goes to 3 o'clock on the left and 12 o'clock on the right
-	- [ ] In the breaker panel (next to the first time kid's check in station), turn on breaker 2
+	- [ ] In the breaker panel (next to the first time kid's check in station), turn on the top two breakers on the left
 	- [ ] There are three remotes in the sound booth, turn on the following devices
 		- [ ] Confidence Monitor TV
 		- [ ] Main Projector
@@ -25,8 +25,15 @@
 		- [ ] Confidence Monitor TV
 		- [ ] Main Projector
 		- [ ] 2 Cross Projectors
-	- [ ] In the breaker panel (next to the first time kid's check in station), turn off breaker 2
+	- [ ] In the breaker panel (next to the first time kid's check in station), turn off the top two breakers on the left
 	- [ ] Turn down the knobs on the amps
 		- [ ] The blue amp (in house)
 		- [ ] The orange amp (lobby/outside) 
 	- [ ] Turn off the Pixel Sticks brain next to the audio rack
+	- [ ] In the rack room, turn off the power conditioner in the audio rack
+	- [ ]  Turn off the three power strips throughout the booth
+		- [ ] Underneath the OBS computer
+		- [ ] On the first camera pole
+		- [ ] On the second camera pole
+	- [ ] Turn both AC units to "Auto" and "Off"
+	- [ ] Turn off the overhead lights (leftmost switch at the end of the sound booth)
